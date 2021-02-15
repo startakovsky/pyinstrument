@@ -66,7 +66,7 @@ Here are the options you can use:
                             frames to hide. Defaults to '*/lib/*'.
       --hide-regex=REGEX    regex matching the file paths whose frames to hide.
                             Useful if --hide doesn't give enough control.
-      --show-all            (text renderer only) show external library code
+      --show-all            show everything
       --unicode             (text renderer only) force unicode text output
       --no-unicode          (text renderer only) force ascii text output
       --color               (text renderer only) force ansi color text output
